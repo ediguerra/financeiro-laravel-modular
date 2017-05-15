@@ -1,0 +1,15 @@
+{
+    "name": "eguerra/financeiro",
+    "description": "",
+    "authors": [
+        {
+            "name": "EdiGuerra",
+            "email": "duarte.edi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Financeiro\\Financeiro\\": ""
+        }
+    }
+}
